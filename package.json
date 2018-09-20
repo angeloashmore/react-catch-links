@@ -18,9 +18,7 @@
   },
   "keywords": [
     "react",
-    "component",
-    "search",
-    "lunr"
+    "component"
   ],
   "author": "Angelo Ashmore",
   "license": "MIT",
